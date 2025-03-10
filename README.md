@@ -4,7 +4,7 @@ I'm a Full Stack engineer passionate about building scalable, user-focused appli
 
 🌟 **About Me**
 - 🎓 I transitioned into tech after completing the [Flatiron School](https://flatironschool.com/courses/coding-bootcamp) Full Stack Software Engineering bootcamp, specializing in Python and JavaScript development.
-- 🏢 Currently, I’m a Full Stack Software Engineering Intern at an early-stage startup called [Ballmecca](https://ballmecca.com/), where I work on mobile and web applications using technologies like Flutter and Firebase.
+- 🏢 Most recently, I was a Full Stack Software Engineering Intern at an early-stage startup called [Ballmecca](https://ballmecca.com/), where I worked on mobile and web applications using technologies like Flutter and Firebase.
 - 🧠 Before tech, I was a Research Assistant in the Metropolitan Policy division of the [Brookings Institution](https://www.brookings.edu/).
 
 :computer: **Tech Stack**
